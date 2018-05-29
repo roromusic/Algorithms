@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Algorithm Questions\r ==",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roromusic/Algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roromusic/Algorithms/issues"
+  },
+  "homepage": "https://github.com/roromusic/Algorithms#readme",
+  "devDependencies": {
+    "jest": "^23.0.1"
+  }
+}
