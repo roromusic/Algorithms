@@ -18,4 +18,4 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
-- [Solution](https://github.com/roromusic/Algorithms/answers/array/TwoSum.js)
+- [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/array/TwoSum.js)
