@@ -52,3 +52,16 @@ Calculate the sum of two integers _a_ and _b_, but you are **not allowed** to us
 Given _a_ = 1 and _b_ = 2, return 3.
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/binary/GetSum.js)
+
+#Linked List
+
+### Reverse Linked List
+Reverse a singly linked list.
+
+#### Example:
+```
+Input: 1->2->3->4->5->NULL
+Output: 5->4->3->2->1->NULL
+```
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/linked_list/ReverseList.js)
