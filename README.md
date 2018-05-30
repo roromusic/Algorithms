@@ -53,7 +53,7 @@ Given _a_ = 1 and _b_ = 2, return 3.
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/binary/GetSum.js)
 
-#Linked List
+## Linked List
 
 ### Reverse Linked List
 Reverse a singly linked list.
