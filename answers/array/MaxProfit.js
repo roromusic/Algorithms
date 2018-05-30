@@ -2,6 +2,7 @@
  * @param {number[]} prices
  * @return {number}
  */
+
 var maxProfit = function(prices) {
     let lowestPriceSoFar = prices[0];
     let highestProfitSoFar = 0;
