@@ -42,3 +42,13 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 ```
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/array/MaxProfit.js)
+
+## Binary
+
+### Sum of Two Integers
+Calculate the sum of two integers _a_ and _b_, but you are **not allowed** to use the operator `+` and `-`.
+
+#### Example:
+Given _a_ = 1 and _b_ = 2, return 3.
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/binary/GetSum.js)
