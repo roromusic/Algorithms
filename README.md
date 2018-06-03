@@ -131,3 +131,42 @@ Output: 5->4->3->2->1->NULL
 Implement `power(x, n)`, which calculates x raised to the power n (xn).
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/math/Power.js)
+
+## Matrix
+
+### Set Matrix Zeroes
+Given a _m_ x _n_ matrix, if an element is 0, set its entire row and column to 0. Do it **in-place**.
+
+#### Example 1:
+```
+Input: 
+[
+  [1,1,1],
+  [1,0,1],
+  [1,1,1]
+]
+Output: 
+[
+  [1,0,1],
+  [0,0,0],
+  [1,0,1]
+]
+```
+
+#### Example 2:
+```
+Input: 
+[
+  [0,1,2,0],
+  [3,4,5,2],
+  [1,3,1,5]
+]
+Output: 
+[
+  [0,0,0,0],
+  [0,4,5,0],
+  [0,3,1,0]
+]
+```
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/matrix/SetZeroes.js)
