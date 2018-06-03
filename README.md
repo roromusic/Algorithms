@@ -124,3 +124,10 @@ Output: 5->4->3->2->1->NULL
 ```
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/linked_list/ReverseList.js)
+
+## Math
+
+### Power
+Implement `power(x, n)`, which calculates x raised to the power n (xn).
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/math/Power.js)
