@@ -199,6 +199,7 @@ Output:
 ## Sorting
 
 [Selection Sort](https://github.com/roromusic/Algorithms/blob/master/answers/sorting/SelectionSort.js)
+[Bubble Sort](https://github.com/roromusic/Algorithms/blob/master/answers/sorting/BubbleSort.js)
 
 ## String
 
