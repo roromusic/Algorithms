@@ -196,6 +196,10 @@ Output:
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/recursion/Subsets.js)
 
+## Sorting
+
+[Selection Sort](https://github.com/roromusic/Algorithms/blob/master/answers/sorting/SelectionSort.js)
+
 ## String
 
 ### Longest Substring Without Repeating Characters
