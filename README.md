@@ -215,3 +215,24 @@ Given `"bbbbb"`, the answer is `"b"`, with the length of 1.
 Given `"pwwkew"`, the answer is "wke", with the length of 3. Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/string/LongestSubstring.js)
+
+## Tree
+
+### Maximum Depth of Binary Tree
+Given a binary tree, find its maximum depth.
+
+The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+#### Example:
+Given binary tree `[3,9,20,null,null,15,7]`,
+```
+    3
+   / \
+  9  20
+    /  \
+   15   7
+```
+return its depth = 3.
+
+[Iterative Solution](https://github.com/roromusic/Algorithms/blob/master/answers/tree/MaxDepthIterative.js)
+[Recursive Solution](https://github.com/roromusic/Algorithms/blob/master/answers/tree/MaxDepthRecursive.js)
