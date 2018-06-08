@@ -202,6 +202,8 @@ Output:
 
 [Bubble Sort](https://github.com/roromusic/Algorithms/blob/master/answers/sorting/BubbleSort.js)
 
+[Insertion Sort](https://github.com/roromusic/Algorithms/blob/master/answers/sorting/InsertionSort.js)
+
 ## String
 
 ### Longest Substring Without Repeating Characters
