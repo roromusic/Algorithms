@@ -90,6 +90,24 @@ Clone an undirected graph. Each node in the graph contains a `label` and a list 
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/graph/CloneGraph.js)
 
+## Heap
+
+### Merge K Sorted Lists
+Merge *k* sorted linked lists and return it as one sorted list.
+
+#### Example:
+```
+Input:
+[
+  1->4->5,
+  1->3->4,
+  2->6
+]
+Output: 1->1->2->3->4->4->5->6
+```
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/heap/MergeKLists.js)
+
 ## Interval
 
 ### Insert Interval
