@@ -222,6 +222,8 @@ Output:
 
 [Insertion Sort](https://github.com/roromusic/Algorithms/blob/master/answers/sorting/InsertionSort.js)
 
+[Heap Sort](https://github.com/roromusic/Algorithms/blob/master/answers/sorting/HeapSort.js)
+
 ## String
 
 ### Longest Substring Without Repeating Characters
