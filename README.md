@@ -5,6 +5,10 @@ Questions and Answers for algorithm practice questions.
 
 ## Array
 
+### Binary Search
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/array/BinarySearch.js)
+
 ### Two Sum
 Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
 
