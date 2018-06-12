@@ -344,6 +344,7 @@ Output: false
 ```
 
 #### Example 3:
+```
 Input:     1         1
           / \       / \
          2   1     1   2
@@ -351,6 +352,7 @@ Input:     1         1
         [1,2,1],   [1,1,2]
 
 Output: false
+```
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/tree/IsSameTree.js)
 
