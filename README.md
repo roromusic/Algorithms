@@ -294,6 +294,8 @@ Output:
 
 [Heap Sort](https://github.com/roromusic/Algorithms/blob/master/answers/sorting/HeapSort.js)
 
+[Counting Sort](https://github.com/roromusic/Algorithms/blob/master/answers/sorting/CountingSort.js)
+
 ## String
 
 ### Longest Substring Without Repeating Characters
