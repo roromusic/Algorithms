@@ -165,6 +165,19 @@ Explanation: The longest increasing subsequence is [2,3,7,101], therefore the le
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/dynamic_programming/LengthOfLIS.js)
 
+
+### Longest Common Subsequence
+Given two sequences, find the length of longest subsequence present in both of them. Both the strings are of uppercase.
+
+#### Example:
+```
+Input: x = "ABCDGH", y = "AEDFHR"
+Output: 3
+Explanation: LCS for input Sequences “ABCDGH” and “AEDFHR” is “ADH” of length 3.
+```
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/dynamic_programming/LCS.js)
+
 ## Graph
 
 ### Clone Graph
