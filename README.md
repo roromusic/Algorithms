@@ -182,6 +182,8 @@ Explanation: LCS for input Sequences “ABCDGH” and “AEDFHR” is “ADH” 
 
 [Breadth First Search](https://github.com/roromusic/Algorithms/blob/master/answers/graph/breadthFirstSearch.js)
 
+[Depth First Search](https://github.com/roromusic/Algorithms/blob/master/answers/graph/depthFirstSearch.js)
+
 ### Clone Graph
 Clone an undirected graph. Each node in the graph contains a `label` and a list of its `neighbors`.
 
