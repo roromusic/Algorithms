@@ -401,6 +401,41 @@ The substring "BBBB" has the longest repeating letters, which is 4.
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/string/CharacterReplacement.js)
 
+
+### Minimum Window Substring
+Given a string S and a string T, find the minimum window in S which will contain all the characters in T in complexity O(n).
+
+#### Example:
+```
+Input: S = "ADOBECODEBANC", T = "ABC"
+Output: "BANC"
+```
+**Note:**
+..* If there is no such window in S that covers all characters in T, return the empty string `""`.
+..* If there is such window, you are guaranteed that there will always be only one unique minimum window in S.
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/string/MinWindow.js)
+
+### Valid Anagram
+Given two strings _s_ and _t_ , write a function to determine if _t_ is an anagram of _s_.
+
+#### Example 1:
+```
+Input: s = "anagram", t = "nagaram"
+Output: true
+```
+
+#### Example 2:
+```
+Input: s = "rat", t = "car"
+Output: false
+```
+
+**Note:**
+You may assume the string contains only lowercase alphabets.
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/string/IsAnagram.js)
+
 ## Tree
 
 ### Maximum Depth of Binary Tree
