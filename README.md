@@ -189,6 +189,37 @@ Explanation: LCS for input Sequences “ABCDGH” and “AEDFHR” is “ADH” 
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/dynamic_programming/LCS.js)
 
+### Word Break
+Given a **non-empty** string _s_ and a dictionary _wordDict_ containing a list of **non-empty** words, determine if _s_ can be segmented into a space-separated sequence of one or more dictionary words.
+
+**Note:**
+
+- The same word in the dictionary may be reused multiple times in the segmentation.
+- You may assume the dictionary does not contain duplicate words.
+
+#### Example 1:
+```
+Input: s = "leetcode", wordDict = ["leet", "code"]
+Output: true
+Explanation: Return true because "leetcode" can be segmented as "leet code".
+```
+
+#### Example 2:
+```
+Input: s = "applepenapple", wordDict = ["apple", "pen"]
+Output: true
+Explanation: Return true because "applepenapple" can be segmented as "apple pen apple".
+             Note that you are allowed to reuse a dictionary word.
+```
+
+#### Example 3:
+```
+Input: s = "catsandog", wordDict = ["cats", "dog", "sand", "and", "cat"]
+Output: false
+```
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/dynamic_programming/WordBreak.js)
+
 ## Graph
 
 [Breadth First Search](https://github.com/roromusic/Algorithms/blob/master/answers/graph/breadthFirstSearch.js)
