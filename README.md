@@ -335,6 +335,11 @@ Output: 5->4->3->2->1->NULL
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/linked_list/ReverseList.js)
 
+### Linked List Cycle
+Given a linked list, determine if it has a cycle in it.
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/linked_list/HasCycle.js)
+
 ## Math
 
 ### Power
