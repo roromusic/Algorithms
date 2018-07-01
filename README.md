@@ -379,7 +379,7 @@ Explanation: The square root of 8 is 2.82842..., and since
              the decimal part is truncated, 2 is returned.
 ```
 
-[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/matrix/MySqrt.js)
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/math/MySqrt.js)
 
 ## Matrix
 
