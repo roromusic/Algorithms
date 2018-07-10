@@ -18,7 +18,7 @@ Heap.prototype.bubbleDown = function(parent){
     const rightNode = (2 * parent) + 2;
 
     let swapPosition;
-    if(data[rightNode] === undefined){
+    if(this.data[rightNode] === undefined){
         swapPosition = leftNode;
     }else {
         swapPosition = this.comparator(this.data[leftNode], this.data[rightNode]) > 0 ? rightNode : leftNode;
