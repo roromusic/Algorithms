@@ -33,7 +33,7 @@ Heap.prototype.bubbleDown = function(parent){
 
 Heap.prototype.add = function(val){
     this.data.push(val);
-    if(data.length > 1) this.bubbleUp(this.data.length - 1);
+    if(this.data.length > 1) this.bubbleUp(this.data.length - 1);
 
     return ++this.size;
 }
@@ -45,7 +45,7 @@ Heap.prototype.poll = function(){
     let returnValue;
     [this.data[0], this.data[this.data.length -1]] = [this.data[this.data.length - 1], this.data[0]];
     returnValue = this.data.pop();
-    if(data.length > 1) this.bubbleDown(0);
+    if(this.data.length > 1) this.bubbleDown(0);
 
     return returnValue;
 }
