@@ -124,6 +124,16 @@ Explanation: Integer 128 has binary representation 00000000000000000000000010000
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/binary/HammingWeight.js)
 
+### Counting Bits
+Given a non negative integer number _num_. For every numbers _i_ in the range `0 ≤ i ≤ num` calculate the number of 1's in their binary representation and return them as an array.
+
+#### Example:
+```
+Input: 5
+Output: [0,1,1,2,1,2]
+```
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/binary/CountBits.js)
 
 ## Dynamic Programming
 
