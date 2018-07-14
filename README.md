@@ -242,6 +242,30 @@ Output: false
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/dynamic_programming/WordBreak.js)
 
+### Combination Sum
+Given an integer array with all positive numbers and no duplicates, find the number of possible combinations that add up to a positive integer target.
+
+#### Example: 
+```
+nums = [1, 2, 3]
+target = 4
+
+The possible combination ways are:
+(1, 1, 1, 1)
+(1, 1, 2)
+(1, 2, 1)
+(1, 3)
+(2, 1, 1)
+(2, 2)
+(3, 1)
+
+Note that different sequences are counted as different combinations.
+
+Therefore the output is 7.
+```
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/dynamic_programming/CombinationSum.js)
+
 ## Graph
 
 [Breadth First Search](https://github.com/roromusic/Algorithms/blob/master/answers/graph/breadthFirstSearch.js)
