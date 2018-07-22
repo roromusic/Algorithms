@@ -470,6 +470,25 @@ Output: 1->1->2->3->4->4
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/linked_list/MergeTwoLists.js)
 
+### Merge k Sorted Lists
+Merge _k_ sorted linked lists and return it as one sorted list.
+
+#### Example:
+```
+Input:
+[
+  1->4->5,
+  1->3->4,
+  2->6
+]
+Output: 1->1->2->3->4->4->5->6
+```
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/linked_list/MergeKLists.js)
+
+[Heap Solution](https://github.com/roromusic/Algorithms/blob/master/answers/heap/MergeKLists.js)
+
+
 ## Math
 
 ### Power
