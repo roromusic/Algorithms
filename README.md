@@ -585,6 +585,16 @@ Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/matrix/SpiralMatrix.js)
 
+### Rotate Image
+You are given an n x n 2D matrix representing an image.
+
+Rotate the image by 90 degrees (clockwise).
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/matrix/Rotate.js)
+
+#### Note:
+Rotate the image **in-place**; don't allocate another 2D matrix for the rotation. 
+
 ## Recursion
 
 ### Subsets of Integers
