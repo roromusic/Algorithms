@@ -620,6 +620,28 @@ Output:
 
 [Solution](https://github.com/roromusic/Algorithms/blob/master/answers/recursion/Subsets.js)
 
+### Subsets II
+Given a collection of integers that might contain duplicates, nums, return all possible subsets (the power set).
+
+#### Note:
+The solution set must not contain duplicate subsets.
+
+#### Example: 
+```
+Input: [1,2,2]
+Output:
+[
+  [2],
+  [1],
+  [1,2,2],
+  [2,2],
+  [1,2],
+  []
+]
+```
+
+[Solution](https://github.com/roromusic/Algorithms/blob/master/answers/recursion/SubsetsII.js)
+
 ## Sorting
 
 [Selection Sort](https://github.com/roromusic/Algorithms/blob/master/answers/sorting/SelectionSort.js)
